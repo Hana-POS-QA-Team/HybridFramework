@@ -1,0 +1,23 @@
+{
+  "login": {
+    "username": "automationshop",
+    "password": "automationshop"
+  },
+  "shop": {
+    "shopname": "Automation Shop",
+    "canada_shopname": "Automation Shop"
+  },
+  "employee": {
+    "clerkname": "Cash Register2",
+    "employeename": "Stuart Markwood",
+    "salesperson": "Stuart Markwood"
+  },
+  "invoice": {
+    "unpaid_Invoice_payment_amount": 100
+  },
+  "customer": {
+    "customername": "15047561 Abish David Hana_Sisterchicks (956-655-0756,956-655-0756)",
+    "custfullname": "Abish David",
+    "custName": "Liam Jack"
+  }
+}

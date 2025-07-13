@@ -1,0 +1,21 @@
+{
+  "login": {
+    "username": "bestflorist",
+    "password": "bestfl0r!st2023#@!"
+  },
+  "shop": {
+    "shopname": "bestflorist"
+  },
+  "employee": {
+    "clerkname": "Cash Register1",
+    "employeename": "Stuart Markwood"
+  },
+  "zone": {
+    "best_zone": "TestZone"
+  },
+  "credit_card": {
+    "number": "4111111111111111",
+    "expiry_date": "1030",
+    "cvv": "123"
+  }
+}
