@@ -1,0 +1,1 @@
+{"uuid":"464e6019-a261-4d7a-971c-415ba02e9139","name":"HybridFramework","children":["7617b36e-3000-4f8a-955b-daebf975e017"],"befores":[],"afters":[{"name":"tearDown","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1752469706478,"stop":1752469706478}],"start":1752469706412,"stop":1752469706479}
